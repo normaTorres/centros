@@ -1,0 +1,57 @@
+{
+  "centroscomerciales": {
+   "apiversion":0.1,
+      "placesListCentrosComerciales":[
+    {
+      "placeId":0,
+      "placeName": "PLAZA MUNDO",
+     
+          "latitude": 13.6986582,
+          "longitude": -89.1525722
+       
+      },
+    {
+      "placeId":1,
+      "placeName": "LA GRAN VIA",
+     
+          "latitude": 13.7085412,
+          "longitude": -89.2431777
+          
+    },
+    {
+      "placeId":2,
+      "placeName": "CENTRO COMERCIAL EL PASEO",
+      
+          "latitude": 13.7017042,
+          "longitude": -89.2373953
+          
+    },
+    {
+      "placeId":3,
+      "placeName": "Metrocentro",
+      
+          "latitude": 13.7055928,
+          "longitude": -89.2141366
+         
+    },
+    {
+      "placeId":4,
+      "placeName": "PLAZA METRÓPOLIS",
+      
+          "latitude": 3.7276472,
+          "longitude": -89.2151114
+         
+    },
+    {
+      "placeId":5,
+      "placeName": "MULTIPLAZA",
+       
+          "latitude": 13.6803135,
+          "longitude": -89.2498517
+       
+    },
+    
+    
+  ]
+  }
+}
