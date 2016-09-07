@@ -50,6 +50,14 @@
           "longitude": -89.2498517
        
     },
+     {
+      "placeId":6,
+      "placeName": "Metrocentro Santa Ana",
+       
+          "latitude": 13.9771862,
+          "longitude": -89.5640324
+       
+    },
     
     
   ]
